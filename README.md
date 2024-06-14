@@ -15,18 +15,8 @@ How does the primary use and distribution of electric vehicles compare to non-el
 What is the relationship between the increase in electric vehicle adoption and the reduction in carbon emissions from facilities within those regions?
 
 
-Problem statement: 
-
-How does the adoption of electric vehicles (EVs) influence carbon emissions and vehicle usage patterns across different regions?
-
-Sub questions:
 
 
-How does the adoption of electric vehicles (EVs) influence carbon emissions and vehicle usage patterns across different regions?
-
-How does the primary use and distribution of electric vehicles compare to non-electric vehicles across different regions?
-
-What is the relationship between the increase in electric vehicle adoption and the reduction in carbon emissions from facilities within those regions?
 Resources:
 
 
