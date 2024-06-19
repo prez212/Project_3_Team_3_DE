@@ -1,4 +1,4 @@
-﻿Facility_Id,City,States,Zip_Code,Address,County,Industry_Type_Sectors,Total_reported_direct_emissions,CO2_emissions_nonbiogenic ,Methane_CH4_ emissions 
+﻿Facility_Id,City,States,Zip_Code,Address,County,Industry_Type_Sectors,Total_reported_direct_emissions,CO2_emissions_nonbiogenic,Methane_CH4_emissions
 1002804,Othello,WA,99344,1201 N BROADWAY AVE,Adams,"Other,Waste",112190.008,50977.4,61184
 1002287,Othello,WA,99344,100 LEE STREET,Adams,"Other,Waste",75786.162,55798.3,19937.5
 1004236,Kennewick,WA,99337,227515 E BOWLES ROAD,Benton,Chemicals,142910.896,9554.8,0.5
