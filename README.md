@@ -56,3 +56,10 @@ https://jcutrer.com/python/learn-geopandas-plotting-usmaps
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.loc.html
 
 
+https://www.earthdatascience.org/courses/use-data-open-source-python/use-time-series-data-in-python/date-time-types-in-pandas-python/customize-dates-matplotlib-plots-python/#:~:text=Using%20the%20DateFormatter%20module%20from,number%20with%20lower%20case%20m
+
+
+https://stackoverflow.com/questions/62299949/month-starting-date-and-ending-date-between-a-range-of-date-in-python
+
+
+
