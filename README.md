@@ -27,3 +27,32 @@ https://catalog.data.gov/dataset/electric-vehicle-population-data/resource/8abbc
 
 
 https://www.epa.gov/ghgreporting/data-sets
+
+
+https://www.bigendiandata.com/2017-06-27-Mapping_in_Jupyter/
+
+
+https://stackoverflow.com/questions/55636285/how-to-fix-valueerror-zero-size-array-to-reduction-operation-fmin-which-has-no
+
+
+https://chatgpt.com/share/23883159-f752-479a-a899-5be44adbeaea
+
+
+https://github.com/matplotlib/matplotlib/issues/16284
+
+
+https://realpython.com/python-map-function/#understanding-map
+
+
+https://chatgpt.com/share/2b7f03b5-3f03-408d-84cb-0e37741ca0ba
+
+
+https://chatgpt.com/share/2b7f03b5-3f03-408d-84cb-0e37741ca0ba
+
+
+https://jcutrer.com/python/learn-geopandas-plotting-usmaps
+
+
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.loc.html
+
+
