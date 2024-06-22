@@ -62,4 +62,5 @@ https://www.earthdatascience.org/courses/use-data-open-source-python/use-time-se
 https://stackoverflow.com/questions/62299949/month-starting-date-and-ending-date-between-a-range-of-date-in-python
 
 
+https://www.recurrentauto.com/research/washington-electric-vehicles
 
