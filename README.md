@@ -32,6 +32,9 @@ https://www.epa.gov/ghgreporting/data-sets
 https://www.bigendiandata.com/2017-06-27-Mapping_in_Jupyter/
 
 
+https://www.youtube.com/watch?v=euCbgfj5DvM
+
+
 https://stackoverflow.com/questions/55636285/how-to-fix-valueerror-zero-size-array-to-reduction-operation-fmin-which-has-no
 
 
@@ -63,4 +66,7 @@ https://stackoverflow.com/questions/62299949/month-starting-date-and-ending-date
 
 
 https://www.recurrentauto.com/research/washington-electric-vehicles
+
+
+https://medium.com/@haniszulaikha/starter-tutorial-on-geopandas-d3ede5cc16e9
 
