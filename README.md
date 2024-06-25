@@ -71,6 +71,9 @@ https://stackoverflow.com/questions/62299949/month-starting-date-and-ending-date
 https://realpython.com/python-mmap/
 
 
+https://www.digitalocean.com/community/tutorials/python-io-bytesio-stringio
+
+
 https://www.recurrentauto.com/research/washington-electric-vehicles
 
 
