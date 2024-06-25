@@ -53,6 +53,9 @@ https://chatgpt.com/share/2b7f03b5-3f03-408d-84cb-0e37741ca0ba
 https://chatgpt.com/share/2b7f03b5-3f03-408d-84cb-0e37741ca0ba
 
 
+https://realpython.com/pandas-merge-join-and-concat/#:~:text=left_on%20and%20right_on%20specify%20a,the%20relevant%20argument%20to%20True%20.
+
+
 https://jcutrer.com/python/learn-geopandas-plotting-usmaps
 
 
